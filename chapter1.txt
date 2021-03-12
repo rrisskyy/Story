@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ini adalah Ayam, Kakinya dua, Punya bulu
+=======
+Ini adalah Domba, Kakinya empat, Punya bulu
+>>>>>>> testPlot

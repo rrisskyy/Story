@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ini adalah Burung Unta, kakinya dua, tinggal di gurun
+=======
+Ini adalah Kerbau, Kakinya empat, Punya tanduk
+>>>>>>> testPlot

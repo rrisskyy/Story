@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ini adalah Burung, Kakinya dua, punya sayap
+=======
+Ini adalah Sapi, Kakinya empat, tidak Punya bulu
+>>>>>>> testPlot
