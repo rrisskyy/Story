@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 KUCING
+=======
+Ini adalah waktu terburuk, ini adalah waktu terbaik
+>>>>>>> testPlot

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ANJING
+=======
+Ini adalah hewan terburuk, ini adalah hewan terbaik
+>>>>>>> testPlot
